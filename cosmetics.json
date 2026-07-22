@@ -1,5 +1,9 @@
 {
-    "wedding_ring": {
-        "texture": "https://raw.githubusercontent.com/Nordiumm/Cosmetics/main/assets/wedding_ring.png"
-    }
+  "wedding_ring": {
+    "displayName": "Wedding Ring",
+    "baseItem": "minecraft:diamond",
+    "model": "wedding_ring",
+    "author": "Nordiumm",
+    "version": 1
+  }
 }
