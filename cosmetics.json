@@ -1,9 +1,11 @@
 {
-  "wedding_ring": {
-    "displayName": "Wedding Ring",
-    "baseItem": "minecraft:diamond",
-    "model": "wedding_ring",
-    "author": "Nordiumm",
-    "version": 1
-  }
+  "cosmetics": [
+    {
+      "id": "wedding_ring",
+      "name": "Wedding Ring",
+      "item": "minecraft:diamond",
+      "texture": "textures/wedding_ring.png",
+      "model": "models/wedding_ring.json"
+    }
+  ]
 }
