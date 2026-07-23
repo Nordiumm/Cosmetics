@@ -1,6 +1,14 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "cosmetics:item/wedding_ring"
-  }
+    "layer0": "minecraft:item/diamond"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "cosmetics:item/wedding_ring"
+    }
+  ]
 }
