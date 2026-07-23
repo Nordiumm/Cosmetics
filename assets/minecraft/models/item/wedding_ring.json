@@ -1,6 +1,6 @@
 {
-    "model": {
-        "type": "minecraft:model",
-        "model": "minecraft:item/wedding_ring_model"
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:custom/wedding_ring"
     }
 }

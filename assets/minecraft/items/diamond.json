@@ -5,7 +5,7 @@
         "component": "minecraft:custom_name",
         "cases": [
             {
-                "when": "Wedding Ring",
+                "when": "ᴡᴇᴅᴅɪɴɢ ʀɪɴɢ ❤",
                 "model": {
                     "type": "minecraft:model",
                     "model": "minecraft:item/wedding_ring"
