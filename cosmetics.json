@@ -4,7 +4,7 @@
       "id": "wedding_ring",
       "name": "Wedding Ring",
       "item": "minecraft:diamond",
-      "texture": "textures/wedding_ring.png",
+      "texture": "textures/item/wedding_ring.png",
       "model": "models/wedding_ring.json"
     }
   ]
