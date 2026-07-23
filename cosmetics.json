@@ -2,8 +2,6 @@
   "cosmetics": [
     {
       "id": "wedding_ring",
-      "name": "Wedding Ring",
-      "item": "minecraft:diamond",
       "texture": "textures/custom/wedding_ring.png",
       "model": "models/item/wedding_ring.json",
       "override": "items/diamond.json"
