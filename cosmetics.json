@@ -11,7 +11,7 @@
       "id": "blahaj",
       "name": "blahaj",
       "item": "minecraft:totem_of_undying",
-      "texture": "",
+      "texture": "textures/custom/blahaj.png",
       "model": "models/item/blahaj.json"
     }
   ]
