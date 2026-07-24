@@ -9,7 +9,7 @@
     },
     {
       "id": "blahaj",
-      "name": "blahaj",
+      "name": "blåhaj",
       "item": "minecraft:totem_of_undying",
       "texture": "textures/custom/blahaj.png",
       "model": "models/item/blahaj.json"
