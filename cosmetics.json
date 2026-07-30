@@ -16,7 +16,7 @@
         "cooldown": 5,
 
         "particle_count": 10,
-        "particle_spread": 0.5
+        "particle_spread": 1.5
       }
     },
     {
