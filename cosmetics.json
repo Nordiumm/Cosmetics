@@ -5,14 +5,25 @@
       "name": "Wedding Ring",
       "item": "minecraft:diamond",
       "texture": "textures/custom/wedding_ring.png",
-      "model": "models/item/wedding_ring.json"
+      "model": "models/item/wedding_ring.json",
+
+      "interaction": {
+        "trigger": "right_click",
+        "particle": "heart",
+        "sound": "minecraft:block.amethyst_block.chime"
+      }
     },
     {
       "id": "blahaj",
       "name": "blåhaj",
       "item": "minecraft:totem_of_undying",
       "texture": "textures/custom/blahaj.png",
-      "model": "models/item/blahaj.json"
+      "model": "models/item/blahaj.json",
+
+      "interaction": {
+        "trigger": "right_click",
+        "particle": "bubble"
+      }
     }
   ]
 }
